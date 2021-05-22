@@ -103,18 +103,19 @@
     {
       "name": "Larry",
       "species": "lemur",
-      "diet": "omnivore",
+      "diet": "Omnivore",
       "personalityTraits": [
         "hungry"
       ],
       "id": "10"
     },
     {
-      "name": "Larry",
-      "species": "",
+      "name": "Alfred",
+      "species": "Duck",
       "diet": "omnivore",
       "personalityTraits": [
-        "hungry"
+        "hungry",
+        "anxious"
       ],
       "id": "11"
     }
